@@ -1,6 +1,6 @@
 ## Heey sou a Agda, estudante de Ciência da Computação!
 
-📚 Estudando Java e SQL.
+📚 Estudando Java e Python.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Agda-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
